@@ -1,0 +1,4 @@
+{
+    "access_token": "2681891755409356|VM-MsIwYixvdXlgtMz-D3Xx31yI",
+    "token_type": "bearer"
+}
